@@ -1,0 +1,23 @@
+
+{
+  "name": "@lohamsa/simple-js-toolkit",
+  "version": "1.0.0",
+  "description": "A collection of simple and useful JavaScript utility functions",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "string",
+    "toolkit"
+  ],
+  "author": "lohamsa",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
